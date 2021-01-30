@@ -23,7 +23,7 @@ Genome analysis is the identification of genomic features such as gene expressio
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
 
-## Answer One
+## Solution
 
 The creation of the circular genome map was made using python. In specific, `python3.8.5`.
 
